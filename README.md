@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhiK1215
+- 👋 Hey, It's Abhii!!
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning DSA
 - 📫 Checkout my portfolio 
